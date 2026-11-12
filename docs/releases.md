@@ -1,0 +1,24 @@
+Roadmap proposto
+
+- **v0.1.0 — Domain & Application Core**
+    - Entidades, invariantes, casos de uso, repository ports e testes unitários. Sem framework ou banco.
+- **v0.2.0 — Infrastructure**
+    - PostgreSQL, migrations, adapters e importação inicial da lista de 1972.
+- **v0.3.0 — Web Application**
+    - Integração da interface pública com o núcleo.
+- **v1.0.0 — Public Catalog**
+    - Primeira versão pública com busca e ordenação.
+- **v1.1.0 — 1940 Collection**
+    - Importação da segunda lista.
+- **v1.2.0 — Author Profiles**
+    - Páginas individuais dos autores e suas obras.
+- **v2.0.0 — Administration**
+    - Painel administrativo e gerenciamento do catálogo.
+- **v2.1.0 — Personal Library**
+    - Contas de usuários, dashboard e acompanhamento de leitura.
+- **v3.0.0 — Editions & Availability**
+    - Edições, traduções, ISBN e acesso legal.
+- **v4.0.0 — Reading Recommendations**
+    - Recomendações baseadas em dados de leitura da comunidade.
+- **v5.0.0 — Community**
+    - Discussões, respostas, curtidas e moderação.
